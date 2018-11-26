@@ -1,0 +1,15 @@
+(Symbol trace_straight_W11_W21_ud);
+($Id$);
+(xic 2.5.69-1 Linux2 02/26/2011 22:01 GMT);
+(PHYSICAL);
+(RESOLUTION 1000);
+( CREATED 2/26/2011 22:1:12, MODIFIED 2/26/2011 22:1:12 );
+5 7100 grid 1000 1;
+9 trace_straight_W11_W21_ud;
+DS 0 1 1;
+L W11;
+B 10000 100000 -7000 0;
+L W21;
+B 10000 100000 7000 0;
+DF;
+E
